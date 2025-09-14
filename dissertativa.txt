@@ -1,0 +1,5 @@
+Multiplicação por 9
+Para descobrir o resultado das multiplicações de 0 a 9 por 9, basta utilizar a seguinte solução:
+Multiplicar 9 por um número de 0 a 9
+Para aferir o resultado basta utilziar o número a ser multiplicado por nove e subtrair 1 para aferir o primeiro algarismo
+Para a ferir o segundo algarismo que contém a resposta basta subtrair o número multiplicado de 10.
