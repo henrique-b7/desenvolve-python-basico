@@ -1,0 +1,5 @@
+1. Leia um número de 1 a 10 e armazene #entrada
+2. Subtraia n-1 e armazene como primeiro dígito n1 #processamento
+3. Subtraia 10-n e armazeno como segundo dígito n2 #processamento
+4. Multiplique n1 por 10 e some com n2 e armazeno o resultado r #processamento
+5. Imprima r #saída
